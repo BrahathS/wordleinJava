@@ -1,1 +1,1 @@
-# wordleinJava
+# Wordle in Java
